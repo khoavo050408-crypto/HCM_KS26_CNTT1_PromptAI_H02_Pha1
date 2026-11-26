@@ -3,7 +3,7 @@
 - **Mã đề:** 06
 - **Họ tên:** Võ Phan Đăng Khoa
 - **Lớp:** HCM_KS26_CNTT1
-- **Link repository Pha1:**
+- **Link repository Pha1:** https://github.com/khoavo050408-crypto/HCM_KS26_CNTT1_PromptAI_H02_Pha1.git
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
