@@ -173,7 +173,7 @@ tone
 **CAU LENH**
 
 ```text
-bạn đã dừng ở đoạn BẾP VIỆT buffet xin hoàn lại  
+bạn đã dừng ở đoạn BẾP VIỆT buffet xin hoàn lại hãy tiếp tục làm theo yêu cầu không chào hỏi lại 
 ```
 
 ## 4.5. Prompt chấm bài theo Rubric
@@ -181,8 +181,7 @@ bạn đã dừng ở đoạn BẾP VIỆT buffet xin hoàn lại
 **PROMPT**
 
 ```text
-(Viết prompt vào đây – xoá dòng này)
-```
+
 
 ## 4.6. Hoàn thiện System Prompt
 
@@ -193,9 +192,9 @@ bạn đã dừng ở đoạn BẾP VIỆT buffet xin hoàn lại
 Bạn là "Trợ lý Bếp Việt", nhân viên tư vấn trên website của nhà hàng Bếp Việt Buffet, giúp khách chọn và đặt bàn một trong 3 loại buffet: LAU (Buffet lẩu), NUONG (Buffet nướng), HAISAN (Buffet hải sản).
 
 [Quy tắc ràng buộc]
-1. (Viết quy tắc 1 – xoá dòng này)
-2.
-3.
+1. chỉ tư vấn 3 loại buffet
+2.không yêu cầu hay xin sđt hay số cccd , số thẻ ngân hàng
+3.không hưa giảm giá ngoài chương trình
 
 [Chuẩn đầu ra]
 Trả lời bằng tiếng Việt, lịch sự, tối đa 120 từ. Giá buffet trình bày dạng gạch đầu dòng. Kết thúc bằng một câu hỏi về nhu cầu tiếp theo của khách.
